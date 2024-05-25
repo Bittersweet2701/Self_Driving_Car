@@ -1,0 +1,348 @@
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=D12-2
+Removed Pin From Net: NetName=GND Pin=D13-2
+Removed Pin From Net: NetName=GND Pin=D16-1
+Removed Pin From Net: NetName=GND Pin=D17-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetC38_1 Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=R27-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=R29-1
+Removed Pin From Net: NetName=+5 Pin=R35-2
+Removed Pin From Net: NetName=+5 Pin=R36-2
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=NetC38_1 Pin=R39-2
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=NetC38_1 Pin=R41-2
+Removed Pin From Net: NetName=VCC Pin=R44-2
+Removed Pin From Net: NetName=NetD15_2 Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=U5-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=+5 Pin=U11-4
+Removed Pin From Net: NetName=GND Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=+5 Pin=U12-4
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=Q3
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=Q4
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_STM32F103C8T6 Member=R19
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_STM32F103C8T6 Member=R20
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_STM32F103C8T6 Member=R21
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_STM32F103C8T6 Member=R22
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R36
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R37
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R38
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R39
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R40
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R41
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=R42
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=U11
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=U12
+Change Component Footprint: Designator=D12 Old Footprint=DO-214AC (SMA) New Footprint=WL-SMCW_0603_H=0.7mm
+Change Component Footprint: Designator=D13 Old Footprint=DO-214AC (SMA) New Footprint=WL-SMCW_0805
+Change Component Footprint: Designator=R35 Old Footprint=resistor_0603 New Footprint=R 0603
+Change Component Footprint: Designator=D14 Old Footprint=WL-SMCW_0603_H=0.7mm New Footprint=SOD123
+Change Component Footprint: Designator=D15 Old Footprint=WL-SMCW_0805 New Footprint=WL-SMCW_0603_H=0.7mm
+Change Component Comment : Designator=C38 Old Comment=1 pF, 50 VDC New Comment=1 uF, 16 VDC
+Change Component Comment : Designator=C39 Old Comment=1 pF, 50 VDC New Comment=10 nF, 50 VDC
+Change Component Comment : Designator=R35 Old Comment=100 KOhm, 1/4 W New Comment=10K
+Change Component Comment : Designator=D14 Old Comment=Green, 3.2V New Comment=5ZT52C3V3
+Change Component Comment : Designator=D12 Old Comment=SS54 New Comment=Green, 3.2V
+Change Component Comment : Designator=D13 Old Comment=SS54 New Comment=Yellow, 2V
+Change Component Comment : Designator=D15 Old Comment=Yellow, 2V New Comment=Red, 2V
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D10
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=R26 NewDesignator=R22
+Change Component Designator: OldDesignator=R27 NewDesignator=R24
+Change Component Designator: OldDesignator=R28 NewDesignator=R25
+Change Component Designator: OldDesignator=R29 NewDesignator=R23
+Change Component Designator: OldDesignator=R30 NewDesignator=R26
+Change Component Designator: OldDesignator=R31 NewDesignator=R28
+Change Component Designator: OldDesignator=R32 NewDesignator=R27
+Change Component Designator: OldDesignator=R33 NewDesignator=R30
+Change Component Designator: OldDesignator=R34 NewDesignator=R29
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U9
+Change component parameters: Designator = "C38" ("C38"); Footprint = "CAP_0603"; UniqueID = "\VDOYLRLQ" ("\VDOYLRLQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/datasheet/2/585/Samsung_MLCC_1837944-1929650.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture SN"; Value = "CL10B105KO8NNWC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 SN"; Value = "187-CL10B105KO8NNWC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Samsung-Electro-Mechanics/CL10B105KO8NNWC?qs=81r%252BiQLm7BT%252BXtc72qn1ug%3D%3D&utm_source=mouser-refine-download&utm_medium=file&utm_campaign=CL10B105KO8NNWC&utm_content=Samsung-Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 SN"; Value = "1276-CL10B105KO8NNWCTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/cl10b105ko8nnwc/16572783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/tu-gom-0603-1uf-16v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 uF, 16 VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "16 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D15" ("D15"); Footprint = "WL-SMCW_0805"; UniqueID = "\DRGMIXGJ" ("\DRGMIXGJ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/150060RS75000?qs=LlUlMxKIyB3QnmZ3fw%2FVCA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C191KRKT/386837"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/led-do-0603-dan-smd-trong-suot"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 SN"; Value = "710-150060RS75000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/150060RS75000?qs=LlUlMxKIyB3QnmZ3fw%2FVCA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 SN"; Value = "160-1447-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C191KRKT/386837"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 Name"; Value = "ICDayRoi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/led-do-0603-dan-smd-trong-suot"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Red, 2V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C39"); Footprint = "CAP_0603"; UniqueID = "\IDCUUBNM" ("\IDCUUBNM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10 nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_soft_en.pdf?ref_disty=mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture SN"; Value = "CGA3E2C0G1H103J080AE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 SN"; Value = "810-CGA3E2C0G1H103J8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.com/ProductDetail/TDK/CGA3E2C0G1H103J080AE?qs=P1JMDcb91o6ZkMITrWTUZQ%3D%3D&utm_source=mouser-refine-download&utm_medium=file&utm_campaign=CGA3E2C0G1H103J080AE&utm_content=TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 SN"; Value = "445-CGA3E2C0G1H103J080AETR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/cga3e2c0g1h103j080ae/11697946"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/product/tu-gom-dan-smd?prid=6679,5762"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "+/-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 nF, 50 VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "DO-214AC (SMA)"; UniqueID = "\BDEABCBF" ("\BDEABCBF")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/150060GS75000?qs=LlUlMxKIyB0UYkq5lDO8nA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C191KGKT/386835"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/led-xanh-la-0603-dan-smd-trong-suot"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 SN"; Value = "710-150060GS75000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/150060GS75000?qs=LlUlMxKIyB0UYkq5lDO8nA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 SN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C191KGKT/386835"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 Name"; Value = "ICDayRoi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/led-xanh-la-0603-dan-smd-trong-suot"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Green, 3.2V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13" ("D13"); Footprint = "DO-214AC (SMA)"; UniqueID = "\WDYPWTDB" ("\WDYPWTDB")
+Change component parameters (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/150080YS75000?qs=LlUlMxKIyB3k0fZGrDMI2w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C170KSKT/386781"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/led-vang-0805-dan-smd-trong-suot-harvatek"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 SN"; Value = "710-150080YS75000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/150080YS75000?qs=LlUlMxKIyB3k0fZGrDMI2w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 SN"; Value = "160-1416-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C170KSKT/386781"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 Name"; Value = "ICDayRoi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/led-vang-0805-dan-smd-trong-suot-harvatek"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Yellow, 2V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14" ("D14"); Footprint = "WL-SMCW_0603_H=0.7mm"; UniqueID = "\NOZVZYLH" ("\NOZVZYLH")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/bzt52h-c3v3-diode-zener-3-3v-375mw-sod-123f"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "resistor_0603"; UniqueID = "\WCAMUDME" ("\WCAMUDME")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-10-kohm-0603-1-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R31(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-10-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R32(resistor_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr-e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR03EZPF1002/1983429"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  Name"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  SN"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "755-ESR03EZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/ROHM-Semiconductor/ESR03EZPF1002?qs=sGAEpiMZZMvdGkrng054t67Efho1F8r6CDeAsqwFse8%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "RHM10KADTR-ND RHM10KADCT-ND RHM10KADDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR03EZPF1002/1983429"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/dien-tro-10-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 KOhm, 1/4 W"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-10-kohm-0603-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R34(resistor_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/4484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier 1 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Supplier 2 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-UP3F3301V/12093093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Supplier 3 URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  Name"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture  SN"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "3.3 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "667-ERJ-PA3F3301V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Panasonic/ERJ-PA3F3301V?qs=sGAEpiMZZMvdGkrng054t6%2FAfIpq60YDpB2wwO%252BBqIBQy72ynM%2FI9Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "10-ERJ-UP3F3301VTR-ND 10-ERJ-UP3F3301VCT-ND 10-ERJ-UP3F3301VDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-UP3F3301V/12093093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/product/dien-tro-dan-smd?prid=6628,22791"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3 KOhm, 1/4 W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=NetC38_1 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=NetC38_1 Pin=D14-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R23-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R24-1
+Added Pin To Net: NetName=NetC38_1 Pin=R32-1
+Added Pin To Net: NetName=VCC Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetC38_1 Pin=R34-2
+Added Pin To Net: NetName=NetD15_2 Pin=R35-1
+Added Pin To Net: NetName=NetC38_1 Pin=U4-10
+Added Pin To Net: NetName=NetQ1_2 Pin=U5-3
+Added Pin To Net: NetName=NetQ2_2 Pin=U6-3
+Added Pin To Net: NetName=NetQ1_2 Pin=U7-3
+Added Pin To Net: NetName=NetQ2_2 Pin=U8-3
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC37_1
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC36_1
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD11_1
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR26_1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R31-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R33-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U4-29
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U4-38
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=U4-27
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=U4-26
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U4-25
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetU4_30 Pin=U4-30
+Added Pin To Net: NetName=NetU4_30 Pin=U6-2
+Added Net: Name=NetU4_30
+Added Pin To Net: NetName=NetU4_31 Pin=U4-31
+Added Pin To Net: NetName=NetU4_31 Pin=U8-2
+Added Net: Name=NetU4_31
+Added Pin To Net: NetName=NetU4_39 Pin=U4-39
+Added Pin To Net: NetName=NetU4_39 Pin=U5-2
+Added Net: Name=NetU4_39
+Added Pin To Net: NetName=NetU4_41 Pin=U4-41
+Added Pin To Net: NetName=NetU4_41 Pin=U7-2
+Added Net: Name=NetU4_41
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component D14 5ZT52C3V3
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component D15 Red, 2V
+Added Member To Class: ClassName=SelfDrivingCar_SCH_PowerBoard Member=Component L2 33uH
+Added Member To Class: ClassName=SelfDrivingCar_SCH_PowerBoard Member=Component R3 1.5 KOhm, 1/4 W
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component R31 10K
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component R32 10 KOhm, 1/4 W
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component R33 10K
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component R34 3.3 KOhm, 1/4 W

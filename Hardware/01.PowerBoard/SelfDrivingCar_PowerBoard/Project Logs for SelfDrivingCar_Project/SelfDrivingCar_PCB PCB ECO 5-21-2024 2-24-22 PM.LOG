@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=C31
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component C33 1 pF, 50 VDC
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component C39 10 uF, 16 VDC

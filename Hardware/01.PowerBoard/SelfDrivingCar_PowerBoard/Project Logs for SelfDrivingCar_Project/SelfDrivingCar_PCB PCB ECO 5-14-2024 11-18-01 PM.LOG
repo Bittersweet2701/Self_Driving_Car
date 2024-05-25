@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3.3 Pin=R11-2
+Removed Pin From Net: NetName=+3.3 Pin=R12-2
+Removed Pin From Net: NetName=+3.3 Pin=R13-2
+Removed Pin From Net: NetName=+3.3 Pin=R14-2
+Added Pin To Net: NetName=3V3_STM Pin=R11-2
+Added Pin To Net: NetName=3V3_STM Pin=R12-2
+Added Pin To Net: NetName=3V3_STM Pin=R13-2
+Added Pin To Net: NetName=3V3_STM Pin=R14-2
+Added Member To Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=Component C28 470 nF, 50 VDC
+Added Member To Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=Component C29 470 nF, 50 VDC
