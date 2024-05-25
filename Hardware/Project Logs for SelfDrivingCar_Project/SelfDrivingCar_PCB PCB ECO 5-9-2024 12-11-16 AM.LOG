@@ -1,0 +1,25 @@
+Added Component: Designator=C22(CAP_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_soft_en.pdf?ref_disty=mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture SN"; Value = "CGA3E3X8R1H104K080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "810-CGA3E3X8R1H104KA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.com/ProductDetail/TDK/CGA3E3X8R1H104K080AE?qs=nQSIdc08i%252Bd8g3IRRgU2bw%3D%3D&utm_source=mouser-refine-download&utm_medium=file&utm_campaign=CGA3E3X8R1H104K080AE&utm_content=TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "445-173697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/cga3e3x8r1h104k080ae/5809262"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/tu-gom-0603-100nf-0-1uf-16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF, 16 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "16 VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=3V3_STM Pin=C22-2
+Added Member To Class: ClassName=SelfDrivingCar_SCH_STM32F103C8T6 Member=Component C22 100 nF, 16 VDC

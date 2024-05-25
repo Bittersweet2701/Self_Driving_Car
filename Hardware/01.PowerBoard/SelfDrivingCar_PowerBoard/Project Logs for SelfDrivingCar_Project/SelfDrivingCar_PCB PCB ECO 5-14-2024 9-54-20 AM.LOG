@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=F1-2
-Removed Member From Class: ClassName=SelfDrivingCar_SCH_PowerBoard Member=F1
-Added Component: Designator=F?(FuseRUEF400)
-Added Pin To Net: NetName=VCC Pin=F?-2
-Added Pin To Net: NetName=NetF?_1 Pin=F?-1
-Added Pin To Net: NetName=NetF?_1 Pin=P1-2
-Added Net: Name=NetF?_1
-Added Member To Class: ClassName=SelfDrivingCar_SCH_PowerBoard Member=Component F? 30V 4A

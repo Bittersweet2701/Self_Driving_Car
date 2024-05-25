@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=P4 Old Footprint=62000411722 New Footprint=HDR/Header/4/BOX/SMD
+Change Component Footprint: Designator=P5 Old Footprint=62000411722 New Footprint=HDR/Header/4/BOX/SMD
+Change Component Footprint: Designator=P6 Old Footprint=62000411722 New Footprint=HDR/Header/4/BOX/SMD
+Change Component Comment : Designator=P4 Old Comment=2A, 125V(AC) New Comment=Header 4
+Change Component Comment : Designator=P5 Old Comment=2A, 125V(AC) New Comment=Header 4
+Change Component Comment : Designator=P6 Old Comment=2A, 125V(AC) New Comment=Header 4
+Change component parameters: Designator = "P4" ("P4"); Footprint = "62000411722"; UniqueID = "\VWYKUWAR" ("\VWYKUWAR")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dau-xh-2-54mm-4-chan-dan-smd-nam-ngang"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5" ("P5"); Footprint = "62000411722"; UniqueID = "\TGIPKXOZ" ("\TGIPKXOZ")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dau-xh-2-54mm-4-chan-dan-smd-nam-ngang"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P6" ("P6"); Footprint = "62000411722"; UniqueID = "\YQQPNGQI" ("\YQQPNGQI")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dau-xh-2-54mm-4-chan-dan-smd-nam-ngang"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"

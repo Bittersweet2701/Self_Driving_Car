@@ -1,0 +1,84 @@
+Change Component Footprint: Designator=C30 Old Footprint=CAP_0603 New Footprint=tu 1206
+Change Component Footprint: Designator=C31 Old Footprint=CAP_0603 New Footprint=tu 1206
+Change Component Footprint: Designator=C28 Old Footprint=C SMD ALU (B) New Footprint=tu 1206
+Change Component Footprint: Designator=C29 Old Footprint=C SMD ALU (B) New Footprint=tu 1206
+Change Component Comment : Designator=C31 Old Comment=100 nF, 16 VDC New Comment=105
+Change Component Comment : Designator=C30 Old Comment=100 nF, 16 VDC New Comment=107
+Change Component Comment : Designator=C29 Old Comment=470uF New Comment=105
+Change Component Comment : Designator=C28 Old Comment=470uF New Comment=107
+Change component parameters: Designator = "C28" ("C28"); Footprint = "C SMD ALU (B)"; UniqueID = "\YQLXTPKU" ("\YQLXTPKU")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1206-10uf-16v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004541"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1207 106-10uF 20% 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "C SMD ALU (B)"; UniqueID = "\KTUBTPSQ" ("\KTUBTPSQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004545"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 105-1uF 20% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAP_0603"; UniqueID = "\RDFZNOGN" ("\RDFZNOGN")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004545"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 105-1uF 20% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAP_0603"; UniqueID = "\DCZYJSEI" ("\DCZYJSEI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1206-10uf-16v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004541"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1207 106-10uF 20% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C42(tu 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1206-10uf-16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1207 106-10uF 20% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C43(tu 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 105-1uF 20% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C44(tu 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1206-10uf-16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1207 106-10uF 20% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C45(tu 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 105-1uF 20% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C42-1
+Added Pin To Net: NetName=MO_GND Pin=C42-2
+Added Pin To Net: NetName=+12 Pin=C43-1
+Added Pin To Net: NetName=MO_GND Pin=C43-2
+Added Pin To Net: NetName=+12 Pin=C44-1
+Added Pin To Net: NetName=MO_GND Pin=C44-2
+Added Pin To Net: NetName=+12 Pin=C45-1
+Added Pin To Net: NetName=MO_GND Pin=C45-2
+Added Member To Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=Component C42 107
+Added Member To Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=Component C43 105
+Added Member To Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=Component C44 107
+Added Member To Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=Component C45 105

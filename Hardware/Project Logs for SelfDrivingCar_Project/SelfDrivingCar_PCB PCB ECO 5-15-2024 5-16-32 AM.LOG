@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=+12 Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=+12 Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=+12 Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=+12 Pin=C31-2
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=C28
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=C29
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=C30
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_MotorDriver Member=C31

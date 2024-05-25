@@ -1,4 +1,0 @@
-Added Component: Designator=F1(FuseRUEF400)
-Added Pin To Net: NetName=NetF1_1 Pin=F1-1
-Added Pin To Net: NetName=VCC Pin=F1-2
-Added Member To Class: ClassName=SelfDrivingCar_SCH_PowerBoard Member=Component F1 FuseRUEF400
