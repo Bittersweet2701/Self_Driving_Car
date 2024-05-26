@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=SelfDrivingCar_SCH_Others Member=C
+Change Component Designator: OldDesignator=C NewDesignator=P7
+Change Component Designator: OldDesignator=C NewDesignator=SW1
+Added Member To Class: ClassName=SelfDrivingCar_SCH_Others Member=Component P7 Header 4
+Added Room: Name=SelfDrivingCar_SCH_MotorDriver
+Added Room: Name=SelfDrivingCar_SCH_Others
+Added Room: Name=SelfDrivingCar_SCH_PowerBoard
+Added Room: Name=SelfDrivingCar_SCH_STM32F103C8T6
