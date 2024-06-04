@@ -1213,6 +1213,371 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYJWSJAX
 
+[Document70]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_BOM\BOM\Bill of Materials-SelfDrivingCar_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_BOM\BOM\Bill of Materials-SelfDrivingCar_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-30_2024-06-01_BOM\BOM\Bill of Materials-SelfDrivingCar_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-26_2024-05-30_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-26_2024-05-30_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.txt
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.txt
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.txt
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\Gerber\SelfDrivingCar_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\Gerber\SelfDrivingCar_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\14-08_2024-05-30_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-28_2024-06-01_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Gerber_Drill\NC Drill\SelfDrivingCar_PCB.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1531,6 +1896,10 @@ OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator= |ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|DocumentPath=D:\PROJECT\Self_Driving_Car\Hardware\SelfDrivingCar_PCB.PcbDoc
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -1542,20 +1911,20 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -1566,48 +1935,52 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908299~1,16908301~1,16908303~1,16908305~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\PROJECT\Self_Driving_Car\Hardware\SelfDrivingCar_PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1620,6 +1993,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1372|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=SUPPLIER NAME=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|Quantity=120|SUPPLIER NAME=145|SUPPLIER SN=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|Quantity=120|SUPPLIER NAME=145|SUPPLIER SN=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=

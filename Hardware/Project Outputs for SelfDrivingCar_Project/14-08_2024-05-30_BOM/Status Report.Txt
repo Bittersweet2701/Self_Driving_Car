@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:08:43 PM On 5/30/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [SelfDrivingCar_PCB.PcbDoc]
+   Generated File[Bill of Materials-SelfDrivingCar_PCB.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:08:44 PM On 5/30/2024

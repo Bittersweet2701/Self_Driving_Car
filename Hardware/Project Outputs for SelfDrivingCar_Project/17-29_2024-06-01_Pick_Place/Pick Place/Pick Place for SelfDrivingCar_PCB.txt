@@ -1,0 +1,144 @@
+Altium Designer Pick and Place Locations
+D:\PROJECT\Self_Driving_Car\Hardware\Project Outputs for SelfDrivingCar_Project\17-29_2024-06-01_Pick_Place\Pick Place\Pick Place for SelfDrivingCar_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/06/24
+Time:       17:29
+Revision:   b87b8ae1caee35ec02bfa696682eef4bbbb799d9
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                  
+C11        "330uF, 6.3V"     TopLayer WCAP-ASLI_D6.3H7.7     1742.000      1601.455      90       "V-Chip, D6.3 x H7.7mm, 330uF, 16V"                                          
+U6         BTS7960           TopLayer P-TO-263-7             2701.438      509.228       0        "IC Control motor"                                                           
+C35        105               TopLayer tu_1206                2369.013      783.724       270      Dán                                                                          
+C34        107               TopLayer tu_1206                2284.013      783.724       270      Dán                                                                          
+C33        105               TopLayer tu_1206                1159.013      1206.276      90       Dán                                                                          
+C32        107               TopLayer tu_1206                1245.013      1206.276      90       Dán                                                                          
+C26        "10 nF, 50 VDC"   TopLayer CAP_0603               1408.013      2932.000      270      "CAP, size 0603, 10 nF, 50 VDC"                                              
+C45        "100 nF, 50 VDC"  TopLayer CAP_0603               598.210       3153.000      0        "CAP, size 0603, 100 nF, 16 VDC"                                             
+C44        "10 uF, 16 VDC"   TopLayer CAP_0603               598.210       3089.832      0        "CAP, size 0603, 10 uF, 16 VDC"                                              
+C43        "10 uF, 16 VDC"   TopLayer CAP_0603               642.556       2278.543      270      "CAP, size 0603, 10 uF, 16 VDC"                                              
+C42        "100 nF, 50 VDC"  TopLayer CAP_0603               582.470       2278.543      270      "CAP, size 0603, 100 nF, 16 VDC"                                             
+C41        "100 nF, 50 VDC"  TopLayer CAP_0603               582.470       2597.835      90       "CAP, size 0603, 100 nF, 16 VDC"                                             
+C40        "10 uF, 16 VDC"   TopLayer CAP_0603               642.556       2597.835      90       "CAP, size 0603, 10 uF, 16 VDC"                                              
+F1         FuseRUEF400       TopLayer FuseRUEF400            2955.603      2605.905      90       "RUEF400 30V 4A"                                                             
+R34        "3.3 KOhm, 1/4 W" TopLayer resistor_0603          1660.013      3123.000      90       "RES, size 0603, 3.3 KOhm, 1/4 W"                                            
+R33        10K               TopLayer R_0603                 876.200       1614.557      180      Resistor                                                                     
+R32        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1658.013      3238.000      90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R31        10K               TopLayer R_0603                 1081.032      1614.557      180      Resistor                                                                     
+C8         105               TopLayer tu_1206                2845.015      3032.986      270      Dán                                                                          
+C25        "100 nF, 16 VDC"  TopLayer CAP_0603               1470.013      2814.449      90       "CAP, size 0603, 100 nF, 16 VDC"                                             
+C24        "100 nF, 16 VDC"  TopLayer CAP_0603               1408.013      2814.449      90       "CAP, size 0603, 100 nF, 16 VDC"                                             
+C22        "100 nF, 16 VDC"  TopLayer CAP_0603               862.013       2578.228      270      "CAP, size 0603, 100 nF, 16 VDC"                                             
+P4         61300311121       TopLayer 61300311121            1768.755      3349.000      270      "WR-PHD Pin Header, THT, pitch 2.54mm, Single Row, Vertical, 3p"             
+Y1         8MHz              TopLayer Crystal_SMD_4PIN_32x25 1361.674      3239.528      0        ""                                                                           
+U9         EL817S            TopLayer EL817S                 1651.054      922.301       270      "Optocouplers 5000Vrms 1 Channel, 4-SMD"                                     
+U10        EL817S            TopLayer EL817S                 1870.217      922.346       270      "Optocouplers 5000Vrms 1 Channel, 4-SMD"                                     
+U8         BTS7960           TopLayer P-TO-263-7             2701.438      998.685       0        ""                                                                           
+U7         BTS7960           TopLayer P-TO-263-7             824.588       991.315       180      ""                                                                           
+U5         BTS7960           TopLayer P-TO-263-7             823.872       509.228       180      ""                                                                           
+U4         STM32F103C8T6     TopLayer STM32F103C8T6          1133.225      2696.339      270      "ARM Microcontrollers - MCU 32BIT Cortex M3 64KB 20KB RAM 2X12 ADC"          
+U3         LM2596S-5.0       TopLayer TO-263-5               2951.926      1644.762      0        "Simple Switcher 3A Step-Down Voltage Regulator"                             
+U2         XL6009            TopLayer XL6009                 2454.446      3368.981      180      "IC switching boost voltage"                                                 
+U1         AMS1117           TopLayer SOT-223                1776.552      2229.500      0        "1A LDO Voltage Regulator, ADJ or fixed 1.5/1.8/2.5/2.85/3.3/5V"             
+TP5        "Test Point"      TopLayer TP_1_5mm_SMD           1981.013      3330.755      90       "Test Point"                                                                 
+TP4        "Test Point"      TopLayer TP_1_5mm_SMD           134.737       1685.553      90       "Test Point"                                                                 
+TP3        "Test Point"      TopLayer TP_1_5mm_SMD           134.737       1555.553      90       "Test Point"                                                                 
+TP2        "Test Point"      TopLayer TP_1_5mm_SMD           1980.013      3520.755      0        "Test Point"                                                                 
+TP1        "Test Point"      TopLayer TP_1_5mm_SMD           1981.013      3140.755      0        "Test Point"                                                                 
+SW1        ?                 TopLayer Button                 1356.076      3449.780      270      "Button Tafctile 3x4x2.5 mm. 2 pin SMD"                                      
+R35        10K               TopLayer R_0603                 672.052       1614.557      180      Resistor                                                                     
+R29        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1484.005      934.694       270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R30        "10 KOhm, 1/4 W"  TopLayer resistor_0603          2039.111      939.461       270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R27        "150 Ohm, 1/4 W"  TopLayer resistor_0603          1417.807      934.694       270      "RES, size 0603, 150 Ohm, 1/4 W"                                             
+R28        "150 Ohm, 1/4 W"  TopLayer resistor_0603          2106.103      939.461       270      "RES, size 0603, 150 Ohm, 1/4 W"                                             
+R26        "200 Ohm, 1/4 W"  TopLayer resistor_0603          1672.013      1191.559      180      "RES, size 0603, 220 Ohm, 1/4 W"                                             
+R23        "100 KOhm, 1/4 W" TopLayer resistor_0603          1672.511      654.053       0        "RES, size 0603, 100 KOhm, 1/4 W"                                            
+R25        "200 Ohm, 1/4 W"  TopLayer resistor_0603          1948.761      1191.000      0        "RES, size 0603, 220 Ohm, 1/4 W"                                             
+R24        "100 KOhm, 1/4 W" TopLayer resistor_0603          1948.761      654.612       180      "RES, size 0603, 100 KOhm, 1/4 W"                                            
+R22        "10 KOhm, 1/4 W"  TopLayer resistor_0603          2387.887      977.228       90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R21        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1135.076      1012.772      270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R20        "10 KOhm, 1/4 W"  TopLayer resistor_0603          2387.887      487.772       90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R19        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1135.076      530.685       270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R18        "10 KOhm, 1/4 W"  TopLayer resistor_0603          642.556       1850.457      90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R17        "10 KOhm, 1/4 W"  TopLayer resistor_0603          869.113       1850.457      270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R16        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1370.350      2007.543      270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R15        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1435.013      2007.000      270      "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R14        "10 KOhm, 1/4 W"  TopLayer resistor_0603          1444.105      3405.488      90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R13        "10 KOhm, 1/4 W"  TopLayer resistor_0603          932.272       2007.543      90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R12        "10 KOhm, 1/4 W"  TopLayer resistor_0603          869.113       2007.543      90       "RES, size 0603, 10 KOhm, 1/4 W"                                             
+R11        10K               TopLayer R_0603                 1622.355      2990.388      0        Resistor                                                                     
+R10        10K               TopLayer R_0603                 1622.355      2790.000      0        Resistor                                                                     
+R9         47K               TopLayer R_0603                 2564.381      1477.439      90       Resistor                                                                     
+R8         47K               TopLayer R_0603                 2638.446      1477.439      90       Resistor                                                                     
+R7         10K               TopLayer R_0603                 1627.820      3565.797      90       Resistor                                                                     
+R6         10K               TopLayer R_0603                 163.955       1203.069      270      Resistor                                                                     
+R5         10K               TopLayer R_0603                 164.955       1407.079      270      Resistor                                                                     
+R4         10K               TopLayer R_0603                 1631.013      3411.535      270      Resistor                                                                     
+R3         "1.5 KOhm, 1/4 W" TopLayer resistor_0603          2760.111      3273.508      270      "RES, size 0603, 1.5 KOhm, 1/4 W"                                            
+R2         1.5K              TopLayer R_0603                 2791.666      3575.000      180      Resistor                                                                     
+R1         13K               TopLayer R_0603                 2791.666      3502.839      0        Resistor                                                                     
+Q1         MMBTA42           TopLayer MMBT-SOT23             1388.038      772.317       180      "TRANS NPN, 40V, 0.2A, SOT23-3"                                              
+Q2         MMBTA42           TopLayer MMBT-SOT23             2133.686      779.402       180      "TRANS NPN, 40V, 0.2A, SOT23-3"                                              
+P7         "Header 4"        TopLayer HDR/Header/4/BOX/SMD   271.296       2101.378      90       "Header, 4-Pin"                                                              
+P5         "Header 4"        TopLayer HDR/Header/4/BOX/SMD   775.375       3451.077      0        "Header, 4-Pin"                                                              
+P6         "Header 4"        TopLayer HDR/Header/4/BOX/SMD   271.296       2775.000      90       "Header, 4-Pin"                                                              
+P3         61300621121       TopLayer 61300621121            1166.013      1929.000      0        "WR-PHD Pin Header, THT, pitch 2.54mm, Dual Row, Vertical, 6p"               
+P2         61300411121       TopLayer 61300411121            1204.013      2195.000      0        "WR-PHD Pin Header, THT, pitch 2.54mm, Single Row, Vertical, 4p"             
+P1         "Header 2"        TopLayer HDR/Terminal/2/3.5mm   3184.013      2455.000      270      "Header, 2-Pin"                                                              
+L2         33uH              TopLayer Inductor_SMD_12x12x8   2192.162      1711.691      180      Inductor                                                                     
+L1         "33uH, 4A"        TopLayer Inductor_SMD_12x12x8   2461.729      2865.000      180      Inductor                                                                     
+J3         "16A, 300V"       TopLayer 691213710002           3324.013      765.000       270      "WR-TBL Series 213 Horizontal Entry Modular, THT, pitch 5mm, 2p"             
+J2         "16A, 300V"       TopLayer 691213710002           194.013       755.000       270      "WR-TBL Series 213 Horizontal Entry Modular, THT, pitch 5mm, 2p"             
+J1         Power_Hole        TopLayer Power_Hole_2mm_THT     3184.013      2773.583      90       "Power Hole, THT"                                                            
+""         "Screw Hole"      TopLayer SCREW/3.2/7.0/M        3264.013      3471.000      0        "Screw Hole"                                                                 
+""         "Screw Hole"      TopLayer SCREW/3.2/7.0/M        174.013       175.000       0        "Screw Hole"                                                                 
+""         "Screw Hole"      TopLayer SCREW/3.2/7.0/M        3264.013      175.000       0        "Screw Hole"                                                                 
+""         "Screw Hole"      TopLayer SCREW/3.2/7.0/M        174.013       3471.000      0        "Screw Hole"                                                                 
+D15        "Red, 2V"         TopLayer WL-SMCW_0603_H=0.7mm   674.021       1547.557      0        "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0603, Red, 2V, 140deg"     
+D14        5ZT52C3V3         TopLayer SOD123                 836.968       3043.827      270      "Zener Diode"                                                                
+D13        "Yellow, 2V"      TopLayer WL-SMCW_0603_H=0.7mm   878.168       1547.557      0        "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0603, Yellow, 2V, 140deg"  
+D12        "Green, 3.2V"     TopLayer WL-SMCW_0603_H=0.7mm   1083.001      1547.557      0        "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0603, Green, 3.2V, 140deg" 
+D10        SS54              TopLayer DO-214AC_(SMA)         1421.013      1079.000      180      "Schottky Diode"                                                             
+D11        SS54              TopLayer DO-214AC_(SMA)         2102.103      1080.291      0        "Schottky Diode"                                                             
+D9         "Red, 2V"         TopLayer WL-SMCW_0603_H=0.7mm   1620.387      2927.396      180      "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0603, Red, 2V, 140deg"     
+D8         "Green, 3.2V"     TopLayer WL-SMCW_0603_H=0.7mm   1620.387      2861.000      180      "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0603, Green, 3.2V, 140deg" 
+D7         SS54              TopLayer DO-214AC_(SMA)         2594.511      1890.000      270      "Schottky Diode"                                                             
+D5         "Blue, 3.2V"      TopLayer WL-SMCW_0805           1550.349      3573.672      270      "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Blue, 3.2V, 140deg"  
+D4         "Blue, 3.2V"      TopLayer WL-SMCW_0805           84.955        1195.195      90       "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Blue, 3.2V, 140deg"  
+D3         "Blue, 3.2V"      TopLayer WL-SMCW_0805           85.955        1399.205      90       "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Blue, 3.2V, 140deg"  
+D2         "Blue, 3.2V"      TopLayer WL-SMCW_0805           1550.349      3403.661      90       "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Blue, 3.2V, 140deg"  
+D6         SS54              TopLayer DO-214AC_(SMA)         2803.013      2433.992      90       "Schottky Diode"                                                             
+D1         SS54              TopLayer DO-214AB_(SMC)         2008.013      2806.144      270      "SS54 SMC Diode Schottky 5A 40V"                                             
+C4         "1 uF, 16 VDC"    TopLayer CAP_0603               1872.832      2410.435      0        "CAP, size 0603, 1 uF, 16 VDC"                                               
+C6         "1 uF, 16 VDC"    TopLayer CAP_0603               1709.504      1968.212      180      "CAP, size 0603, 1 uF, 16 VDC"                                               
+C39        "10 nF, 50 VDC"   TopLayer CAP_0603               922.013       3008.787      270      "CAP, size 0603, 10 nF, 50 VDC"                                              
+C38        "1 uF, 16 VDC"    TopLayer CAP_0603               984.407       3008.712      90       "CAP, size 0603, 1 uF, 16 VDC"                                               
+C36        "1 pF, 50 VDC"    TopLayer CAP_0603               1352.951      938.907       90       "CAP, size 0603, 1 pF, 50 VDC"                                               
+C37        "1 pF, 50 VDC"    TopLayer CAP_0603               2171.088      943.386       90       "CAP, size 0603, 1 pF, 50 VDC"                                               
+C31        105               TopLayer tu_1206                2306.677      424.189       90       Dán                                                                          
+C30        107               TopLayer tu_1206                2220.013      424.189       90       Dán                                                                          
+C29        105               TopLayer tu_1206                1149.013      725.612       90       Dán                                                                          
+C28        107               TopLayer tu_1206                1235.013      725.612       90       Dán                                                                          
+C27        "1 uF, 16 VDC"    TopLayer CAP_0603               1470.013      2932.000      270      "CAP, size 0603, 1 uF, 16 VDC"                                               
+C23        "100 nF, 16 VDC"  TopLayer CAP_0603               797.958       2578.228      270      "CAP, size 0603, 100 nF, 16 VDC"                                             
+C21        "100 nF, 16 VDC"  TopLayer CAP_0603               1343.013      2398.323      90       "CAP, size 0603, 100 nF, 16 VDC"                                             
+C20        "100 nF, 16 VDC"  TopLayer CAP_0603               1281.013      2398.323      90       "CAP, size 0603, 100 nF, 16 VDC"                                             
+C19        "100 nF, 16 VDC"  TopLayer CAP_0603               1074.170      2975.528      180      "CAP, size 0603, 100 nF, 16 VDC"                                             
+C18        "4.7 uF, 10 VDC"  TopLayer CAP_0603               1074.170      3038.685      180      "CAP, size 0603, 4.7 uF, 10 VDC"                                             
+C17        "22 pF, 50 VDC"   TopLayer CAP_0603               1472.013      3239.528      90       "CAP, size 0603, 22 pF, 50 VDC"                                              
+C16        "22 pF, 50 VDC"   TopLayer CAP_0603               1251.013      3239.528      270      "CAP, size 0603, 22 pF, 50 VDC"                                              
+C15        "100 nF, 16 VDC"  TopLayer CAP_0603               1270.778      3406.472      270      "CAP, size 0603, 100 nF, 16 VDC"                                             
+C14        "100 nF, 16 VDC"  TopLayer CAP_0603               869.113       2185.472      90       "CAP, size 0603, 100 nF, 16 VDC"                                             
+C13        "10 uF, 16 VDC"   TopLayer CAP_0603               932.272       2185.472      90       "CAP, size 0603, 10 uF, 16 VDC"                                              
+C12        104               TopLayer tu_0805                1551.745      1674.289      270      Dán                                                                          
+C10        "470uF, 35V"      TopLayer WCAP-ASLI_D10H10.5     3191.260      2080.000      180      "V-Chip, D10 x H10.5mm, 470uF, 35V"                                          
+C9         100nF             TopLayer C_0805                 2844.013      1375.000      180      "Capacitor non-pol"                                                          
+C7         "47uF, 50V"       TopLayer WCAP-ASLI_D6.3H7.7     3082.041      3097.947      180      "V-Chip, D6.3 x H7.7mm, 47uF, 50V"                                           
+C2         "220uF, 50V"      TopLayer WCAP-ASLI_D10H10.5     2441.013      2371.000      180      "V-Chip, D10 x H10.5mm, 220uF, 50V"                                          
+C3         "10 µF, 16 V"     TopLayer TANTALUM_SMD_A         1712.255      2495.000      180      "CAP TANT 10uF 10% 16V 1206"                                                 
+C5         "10 µF, 16 V"     TopLayer TANTALUM_SMD_A         1745.004      1886.827      0        "CAP TANT 10uF 10% 16V 1206"                                                 
+C1         105               TopLayer tu_1206                2761.000      2015.000      270      Dán                                                                          

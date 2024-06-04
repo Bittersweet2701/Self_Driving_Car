@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:29:58 PM On 6/1/2024
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [SelfDrivingCar_PCB.PcbDoc]
+   Generated File[Pick Place for SelfDrivingCar_PCB.txt]
+   Generated File[Pick Place for SelfDrivingCar_PCB.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:30:00 PM On 6/1/2024
